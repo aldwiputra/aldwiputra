@@ -56,7 +56,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 | Awwwards      | [https://awwwards.com](https://awwwards.com/)                  |       A site where well-designed websites are |
 | Codrops       | [https://tympanus.net/codrops/](https://tympanus.net/codrops/) |    Inspiration for css animation and 3D stuff |
 
-## :pencil3: List
+## :pencil2: List
 
 1. Numba One
 2. Numba Two
