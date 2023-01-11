@@ -6,7 +6,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia**. I started lea
 
 ---
 
-<img align="left" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
+<img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
 
 ### **What I am doing currently:**
 
