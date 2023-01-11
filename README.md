@@ -37,7 +37,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
   <img height="50" title="Postgresql" alt="Postgresql Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/postgresql.png">
 </a> &#xa0; &#xa0;
 
-<br/>
+&nbsp;
 
 <details>
    <summary><strong>Don't Open 🚫</strong></summary>
