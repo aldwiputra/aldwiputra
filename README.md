@@ -55,3 +55,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 | Josh W Comeau | [https://joshwcomeau.com](https://joshwcomeau.com/)            | Great place to learn very deep webdev concept |
 | Awwwards      | [https://awwwards.com](https://awwwards.com/)                  |       A site where well-designed websites are |
 | Codrops       | [https://tympanus.net/codrops/](https://tympanus.net/codrops/) |    Inspiration for css animation and 3D stuff |
+
+---
+
+<p align="center"><a href="https://www.linkedin.com/in/aldiansyah-dwi-putra-9054a1118/"><img src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/"></a></p>
