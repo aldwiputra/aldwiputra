@@ -58,4 +58,4 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 
 ---
 
-<p align="center"><a href="https://www.linkedin.com/in/aldiansyah-dwi-putra-9054a1118/"><img src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/aldiansyah-dwi-putra-9054a1118/"><img src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/linkedin.png"></a></p>
