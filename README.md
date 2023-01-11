@@ -39,13 +39,15 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 
 &nbsp;
 
-<details>
+<code>
+  <details>
    <summary><strong>Don't Open 🚫</strong></summary>
    <img height="200" title="RickAshley" alt="Rick Ashley" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/rick-roll-rick-ashley.gif">
     <img height="200" title="RickAshley" alt="Rick Ashley" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/rick-roll-rick-ashley.gif">  
    <img height="200" title="RickAshley" alt="Rick Ashley" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/rick-roll-rick-ashley.gif">
    <strong><p>Told ya ¯\_(ツ)_/¯</p></strong>
-</details>
+  </details>
+</code>
 
 ## My Favorite Websites
 
