@@ -16,4 +16,4 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia**. I started lea
 
 - Looking for a waifu 👉👈
 
-## My Favorite Technologies
+## :wrench: My Favorite Technologies
