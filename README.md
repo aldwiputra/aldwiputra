@@ -15,3 +15,5 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia**. I started lea
 - Learning Software Engineering 🕵🏻‍♂️
 
 - Looking for a waifu 👉👈
+
+## My Favorite Technologies
