@@ -16,7 +16,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 
 - Looking for a waifu 👉👈
 
-## :rocket: My Favorite Technologies
+## My Favorite Technologies
 
 <a href="https://svelte.dev">
   <img height="50" title="Svelte" alt="Svelte Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/svelte.webp">
@@ -47,7 +47,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
    <strong><p>Told ya ¯\_(ツ)_/¯</p></strong>
 </details>
 
-## :earth_asia: My Favorite Websites
+## My Favorite Websites
 
 | Name          | Address                                                        |                                   Description |
 | :------------ | -------------------------------------------------------------- | --------------------------------------------: |
@@ -56,11 +56,11 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 | Awwwards      | [https://awwwards.com](https://awwwards.com/)                  |       A site where well-designed websites are |
 | Codrops       | [https://tympanus.net/codrops/](https://tympanus.net/codrops/) |    Inspiration for css animation and 3D stuff |
 
-## :pencil2: List
+## List
 
-1. Numba One
-2. Numba Two
-3. Numba Three
+1. `Numba One`
+2. `Numba Two`
+3. `Numba Three`
 
 ---
 
