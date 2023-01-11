@@ -56,6 +56,12 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🇮🇩. I st
 | Awwwards      | [https://awwwards.com](https://awwwards.com/)                  |       A site where well-designed websites are |
 | Codrops       | [https://tympanus.net/codrops/](https://tympanus.net/codrops/) |    Inspiration for css animation and 3D stuff |
 
+## :pencil3: List
+
+1. Numba One
+2. Numba Two
+3. Numba Three
+
 ---
 
-<p align="center"><a href="https://www.linkedin.com/in/aldiansyah-dwi-putra-9054a1118/"><img src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/linkedin.png"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/aldiansyah-dwi-putra-9054a1118/"><img height="50px"src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/linkedin.png"></a></p>
