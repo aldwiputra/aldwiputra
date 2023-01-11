@@ -16,4 +16,8 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia**. I started lea
 
 - Looking for a waifu 👉👈
 
-## :wrench: My Favorite Technologies
+## :rocket: My Favorite Technologies
+
+<a href="https://nextjs.org">
+  <img width="50" title="NextJs" alt="Next Logo" src="">
+</a> &#xa0; &#xa0;
