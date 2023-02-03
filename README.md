@@ -14,8 +14,6 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🏝️ . I st
 
 - Learning Software Engineering 🕵🏻‍♂️
 
-- Looking for a waifu 👉👈
-
 ## My Favorite Technologies
 
 <a href="https://svelte.dev">
