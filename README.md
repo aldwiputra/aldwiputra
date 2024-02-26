@@ -10,9 +10,7 @@ I am a **Software Engineer** 💻 based in **Bandung, Indonesia** 🏝️ . I st
 
 ### :fire: **What I am doing currently:**
 
-- Working on my portfolio's website 😎
-
-- Learning Software Engineering 🕵🏻‍♂️
+- Working at a healthcare startup as a Front-end Engineer 😎
 
 ## My Favorite Technologies
 
